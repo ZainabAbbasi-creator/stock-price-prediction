@@ -25,7 +25,7 @@ This project predicts future stock prices based on historical market data includ
    ```bash
    git clone https://github.com/<ZainabAbbasi-creator>/stock-price-prediction.git
 pip install -r requirements.txt
-📌 Author: Zainab Abbasi
+📌 Author: Zainab Sajid Abbasi
 📌 Internship Task: ArchTechnologies
-Do you also want me to prepare a **requirements.txt** file content for this repo so it looks complete and professional?
+
 
