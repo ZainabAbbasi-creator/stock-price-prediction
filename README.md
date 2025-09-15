@@ -23,7 +23,7 @@ This project predicts future stock prices based on historical market data includ
 🔹 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<stock-price-prediction>/stock-price-prediction.git
+   git clone https://github.com/<ZainabAbbasi-creator>/stock-price-prediction.git
 pip install -r requirements.txt
 📌 Author: Zainab Abbasi
 📌 Internship Task: ArchTechnologies
